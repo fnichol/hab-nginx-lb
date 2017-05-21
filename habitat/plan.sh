@@ -1,6 +1,6 @@
 pkg_name=nginx-lb
 pkg_version=1.13.0
-pkg_description="NGINX web server."
+pkg_description="An nginx dynamic service load balancer for Habitat services"
 pkg_maintainer="Seth Vargo <seth@sethvargo.com>"
 pkg_license=('bsd')
 pkg_source=https://nginx.org/download/nginx-${pkg_version}.tar.gz
